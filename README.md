@@ -1,4 +1,4 @@
-# 🧠 Kanser Tahmin Projesi
+# 🧠Gögüs Kanseri Tahmin Projesi
 
 **Hazırlayan:** Mustafa Yol / Mustafa Arslan
 
