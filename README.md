@@ -1,6 +1,6 @@
 # 🧠Gögüs Kanseri Tahmin Projesi
 
-**Hazırlayan:** Mustafa Yol / Mustafa Arslan
+**Hazırlayan:** Mustafa Yol / Mustafa Arslan / Göktuğ Vefa Uysal
 
 ---
 
